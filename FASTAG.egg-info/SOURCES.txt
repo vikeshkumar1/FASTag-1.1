@@ -1,0 +1,11 @@
+setup.py
+./bin/Run.py
+FASTAG/__init__.py
+FASTAG/clearscr.py
+FASTAG/otpgen.py
+FASTAG.egg-info/PKG-INFO
+FASTAG.egg-info/SOURCES.txt
+FASTAG.egg-info/dependency_links.txt
+FASTAG.egg-info/requires.txt
+FASTAG.egg-info/top_level.txt
+bin/Run.py
